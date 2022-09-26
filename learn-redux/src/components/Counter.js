@@ -1,4 +1,5 @@
 import React from 'react';
+
 //PRESENTATIONAL COMPONENT
 
 function Counter({ number, diff, onIncrease, onDecrease, onSetDiff }) {
